@@ -5,7 +5,7 @@ import seaborn as sns
 from datetime import datetime
 import calendar
 
-all_df = pd.read_csv('all_data.csv')
+all_df = pd.read_csv('dashboard/all_data.csv')
 
 orders_col = [
     'order_purchase_timestamp',
