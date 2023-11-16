@@ -5,21 +5,21 @@ Repositori yang berupa projek analis data menggunakan ecommerce public dataset k
 
 ## Struktur Direktori
 dashboard/ 
-    all_data.csv # dataset utama
-    main.py # 
+    all_data.csv
+    main.py 
 
 dataset/ 
-    customers_dataset.csv # Dataset pelanggan
-    geolocation_dataset.csv # Dataset geolokasi
-    order_items_dataset.csv # Dataset detail pesanan
-    order_payments_dataset.csv # Dataset pembayaran pesanan
-    order_reviews_dataset.csv # Dataset ulasan pesanan
-    orders_dataset.csv # Dataset informasi pesanan
-    product_category_name_translation.csv # Dataset terjemahan kategori produk
-    products_dataset.csv # Dataset informasi produk
-    sellers_dataset.csv # Dataset informasi penjual
-    Analis_Public_Ecommerce.ipynb # Notebook analisis data
-    requirements.txt # berisi daftar dependensi proyek
+    customers_dataset.csv 
+    geolocation_dataset.csv 
+    order_items_dataset.csv
+    order_payments_dataset.csv 
+    order_reviews_dataset.csv 
+    orders_dataset.csv 
+    product_category_name_translation.csv
+    products_dataset.csv
+    sellers_dataset.csv 
+Analis_Public_Ecommerce.ipynb 
+requirements.txt 
 
 ## Instalasi
 
